@@ -1,4 +1,4 @@
-Create symlinks from the filesystem locations to this files:
+Create symlinks from the filesystem locations to these files:
 
 ** /etc/hyperion.config.json  -> hyperion.config.json **
 needs to be adjusted to your strip layout for example with the hyperion config tool found here: https://github.com/tvdzwan/hyperion/wiki/configuration)
